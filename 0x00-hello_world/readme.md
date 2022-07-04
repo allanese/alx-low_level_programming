@@ -1,5 +1,5 @@
 #!/bin/bash
-This includes the following C Scripts;
+This includes the following C Scripts
 1.Preprocessor 
 2.Compiler
 3.Assembler
